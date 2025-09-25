@@ -1,1 +1,3 @@
-"# x64Playground" 
+This repository contains a collection of small Windows x64 assembly files for testing and experimenting with low-level concepts. It serves as a personal sandbox to explore ideas such as NOP sleds, pseudo-random number generation, buffer manipulation, and XOR encryption. These files are intended purely for experimentation and practice, and are not suitable for educational or production use. All examples are minimal, self-contained, and designed to illustrate specific assembly techniques.
+
+This project is under the MIT [LICENSE](LICENSE)
